@@ -1,16 +1,32 @@
-## Hi there 👋
+                    AL FARIS
+              CYBER × CODE × LINUX
 
-<!--
-**alfaris-dev/alfaris-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student • Developer
+Ethical Security Researcher
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ CYBERSECURITY
+💻 DEVELOPMENT
+🐧 LINUX
+🌐 WEB TECHNOLOGY
+🧪 SECURITY LABS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CURRENTLY LEARNING
+Python • Networking • Linux
+Web Security • Ethical Hacking
+Secure Software Development
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROJECTS
+🔐 Cybersecurity Labs
+💻 Python Projects
+🌐 Web Development
+🐧 Linux Configuration
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BUILD. BREAK. UNDERSTAND. SECURE.
